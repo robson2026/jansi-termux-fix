@@ -1,0 +1,1 @@
+# JAnsi Fixed for Termux
