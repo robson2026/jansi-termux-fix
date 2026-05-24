@@ -2,7 +2,7 @@
 
 (Português do Brasil no final)
 
-Fixing JAnsi Error in Termux (Kotlin/Java 21)
+Fixing JAnsi Error in Termux (Kotlin/Java)
 
 This repository contains the solution for the JAnsi native library error (org.fusesource.jansi.AnsiMain) that occurs when trying to run Kotlin or Gradle within the Termux environment on Android.
 
@@ -25,7 +25,7 @@ export JAVA_OPTIONS="-Djansi.passthrough=true"
 
 ---
 
-Correção do Erro JAnsi no Termux (Kotlin/Java 21)
+Correção do Erro JAnsi no Termux (Kotlin/Java)
 
 Este repositório registra a solução para o erro de biblioteca nativa do JAnsi (org.fusesource.jansi.AnsiMain) que ocorre ao tentar executar o Kotlin ou o Gradle dentro do ambiente Termux no Android.
 
